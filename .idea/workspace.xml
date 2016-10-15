@@ -205,6 +205,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f1ed56bc-ee30-4a4c-8a82-63d6b2b3d4e0" name="Default" comment="" />
@@ -212,7 +215,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476561105600</updated>
-      <workItem from="1476561108813" duration="4230000" />
+      <workItem from="1476561108813" duration="4305000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes to files at .idea">
       <created>1476562333156</created>
@@ -225,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4230000" />
+    <option name="totallyTimeSpent" value="4305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
