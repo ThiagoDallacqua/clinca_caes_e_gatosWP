@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1ed56bc-ee30-4a4c-8a82-63d6b2b3d4e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="clinicaWP.iws" />
@@ -195,12 +194,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476561105600</updated>
-      <workItem from="1476561108813" duration="1100000" />
+      <workItem from="1476561108813" duration="1148000" />
     </task>
+    <task id="LOCAL-00001" summary="minor changes to files at .idea">
+      <created>1476562333156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476562333156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1100000" />
+    <option name="totallyTimeSpent" value="1148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -234,6 +241,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor changes to files at .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes to files at .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
