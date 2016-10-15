@@ -3,3 +3,9 @@ h1{
     font-family: 'Karla', sans-serif;
     font-size: 2em;
 }
+
+.jumbotron{
+
+    text-align: center;
+    margin-top: 8%;
+}
