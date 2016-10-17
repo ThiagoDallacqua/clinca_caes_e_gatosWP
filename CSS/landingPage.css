@@ -1,11 +1,46 @@
-h1{
+body{
 
     font-family: 'Karla', sans-serif;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 .jumbotron{
 
     text-align: center;
     margin-top: 8%;
+    background: rgba(176, 191, 187, 0.38);
+}
+
+#parceiros{
+
+    text-align: left;
+    background: rgba(145, 180, 170, 0.38);
+}
+
+#parceirosImg{
+
+    height: 200px;
+    margin-right: 20%;
+
+}
+
+.parceiros{
+
+    font-size: 2em;
+}
+
+.body{
+
+    background-color: rgba(114, 166, 152, 0.38);
+    margin-top: 5%;
+}
+
+.row{
+
+    margin-bottom: 2%;
+}
+
+.logo{
+
+    height: 100px;
 }
